@@ -1,0 +1,12 @@
+Jhonemar C. Tejano BSCS 4th Year
+Load Testing Final 
+
+PART 4 — AGILE EXPLANATION 
+When should load testing occur
+- Load testing should occur during the later stages of an Agile sprint after major features are implemented. This ensures the system can handle expected user traffic before deployment.
+
+Benefits of CI/CD automation
+-Automated testing in CI/CD pipelines allows performance tests to run automatically when code changes occur. This helps detect performance issues earlier and improves software reliability.
+
+Security and data privacy
+-Security and privacy during performance testing are maintained by using anonymized or synthetic data instead of real user information.
