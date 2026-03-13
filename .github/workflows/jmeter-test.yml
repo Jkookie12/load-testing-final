@@ -1,0 +1,16 @@
+name: JMeter Load Test
+
+on: [push]
+
+jobs:
+  load-test:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v3
+
+    - name: Install JMeter
+      run: sudo apt-get update && sudo apt-get install -y jmeter
+
+    - name: Run Load Test
+      run: jmeter -n -t testplan.jmx -l results.jtl -e -o report

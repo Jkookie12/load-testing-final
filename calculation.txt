@@ -1,0 +1,16 @@
+Student ID: 22000188100
+
+Virtual Users = (Last 2 digits × 2) + 50
+Virtual Users = (00 × 2) + 50
+Virtual Users = 50
+
+Ramp-up Time = (Last digit × 5)
+Ramp-up Time = (0 × 5)
+Ramp-up Time = 0 seconds
+
+Adjusted ramp-up = 1 second
+
+Final configuration:
+Virtual Users = 50
+Ramp-up = 1 second
+Loop Count = 3

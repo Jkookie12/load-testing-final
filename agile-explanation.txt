@@ -1,0 +1,13 @@
+1. When should load testing occur in an Agile sprint?
+
+- Load testing should be done in the development cycle of an agile sprint, especially after new features or system updates have been introduced. The idea is to make sure it can handle more than single user at a time without slowing down too much in this stage This is often done prior launch service in order to verify whether the application can cope with multiple users without any performance problem. During the sprint period, load testing can help to uncover problems in performance early thereby ensuring that the solution is still reliable and stable when it is released for deployment.
+
+
+2. Benefits of automated testing in CI/CD pipelines
+
+- Automated testing in CI/CD pipelines enables performance tests to automatically commence whenever new code is committed. This makes teams can identify and resolve performance issues very quickly, without needing to manually test every time. Moreover, it speeds up development accuracy by giving developers more immediate feedback on the performance of their systems. They can then solve problems earlier in the cycle and so keep up standard.
+
+
+3. Security and data privacy in performance testing
+
+- One need to give most attention to safety and privacy when performing this type of test. Never use actual user data like real email addresses and passwords in test environments. Instead, synthetic or anonymized test data should be used, to protect the privacy of users. This way unauthorized exposure to data is limited, and also to ensure that safety is put into practice when carrying out testing activities.
